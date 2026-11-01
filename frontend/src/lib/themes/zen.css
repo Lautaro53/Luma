@@ -1,0 +1,25 @@
+
+:root {
+  /* Colores principales */
+  --color-background: #F7F8F2;
+  --color-surface: #FFFFFF;
+  --color-surface-soft: #E5EBDD;
+
+  /* Identidad */
+  --color-primary: #607E68;
+  --color-primary-hover: #4B6853;
+
+  /* Tipografía */
+  --color-text: #35483A;
+  --color-text-muted: #718275;
+
+  /* Bordes y efectos */
+  --color-border: #D5DFD0;
+  --color-focus: #607E68;
+
+  --shadow-card: 0 6px 24px rgba(53, 72, 58, 0.05);
+
+  /* Formas */
+  --radius-card: 20px;
+  --radius-control: 12px;
+}

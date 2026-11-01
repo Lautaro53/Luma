@@ -1,0 +1,164 @@
+:root[data-theme="autumn"] {
+  color-scheme: light;
+
+  --color-background: #FAF3E8;
+  --color-surface: #FFFDF7;
+  --color-surface-soft: #EDDCC7;
+
+  --color-primary: #936547;
+  --color-primary-hover: #795036;
+
+  --color-text: #544538;
+  --color-text-muted: #816E5B;
+
+  --color-border: #E4CEB5;
+  --color-focus: #936547;
+
+  --shadow-card: 0 6px 24px rgba(84, 69, 56, 0.06);
+}
+
+:root[data-theme="forest"] {
+  color-scheme: dark;
+
+  --color-background: #192720;
+  --color-surface: #263A30;
+  --color-surface-soft: #33483A;
+
+  --color-primary: #A1BD97;
+  --color-primary-hover: #BED5B4;
+
+  --color-text: #E2EADD;
+  --color-text-muted: #B1C3B2;
+
+  --color-border: #45624B;
+  --color-focus: #A1BD97;
+
+  --shadow-card: 0 6px 24px rgba(0, 0, 0, 0.12);
+}
+
+:root[data-theme="midnight"] {
+  color-scheme: dark;
+
+  --color-background: #171E29;
+  --color-surface: #263243;
+  --color-surface-soft: #314155;
+
+  --color-primary: #A4BECE;
+  --color-primary-hover: #C1D5DF;
+
+  --color-text: #E4E9ED;
+  --color-text-muted: #A9B8C5;
+
+  --color-border: #41566B;
+  --color-focus: #A4BECE;
+
+  --shadow-card: 0 6px 24px rgba(0, 0, 0, 0.16);
+}
+
+/* Techno Cyberpunk */
+:root[data-theme="techno"] {
+  color-scheme: dark;
+
+  /* Colores principales */
+  --color-background: #080D19;
+  --color-surface: #101B30;
+  --color-surface-soft: #172A43;
+
+  /* Acentos */
+  --color-primary: #00E5FF;
+  --color-primary-hover: #65F2FF;
+
+  /* Tipografía */
+  --color-text: #EAF8FF;
+  --color-text-muted: #91B1CB;
+
+  /* Bordes y enfoque */
+  --color-border: #24577B;
+  --color-focus: #FF3DC8;
+
+  /* Sombras luminosas */
+  --shadow-card:
+    0 0 12px rgba(0, 229, 255, 0.12),
+    0 8px 30px rgba(0, 0, 0, 0.35);
+
+  /* Identidad geométrica */
+  --radius-card: 4px;
+  --radius-button: 2px;
+
+  /* Efectos especiales */
+  --glow-primary: 0 0 14px rgba(0, 229, 255, 0.45);
+  --color-secondary-accent: #FF3DC8;
+
+  --radius-card: 4px;
+  --radius-control: 2px;
+
+  /* Identidad luminosa */
+  --color-border: #19779B;
+  --color-focus: #FF3DC8;
+
+  --shadow-card:
+    0 0 0 1px rgba(0, 229, 255, 0.12),
+    0 0 18px rgba(0, 229, 255, 0.10),
+    0 8px 30px rgba(0, 0, 0, 0.35);
+}
+
+
+/* Ocean */
+:root[data-theme="ocean"] {
+  color-scheme: light;
+
+  --color-background: #ECF5F8;
+  --color-surface: #FFFFFF;
+  --color-surface-soft: #DCEBF1;
+
+  --color-primary: #285D77;
+  --color-primary-hover: #1C485E;
+
+  --color-text: #233D4A;
+  --color-text-muted: #526E7A;
+
+  --color-border: #BCD4DF;
+  --color-focus: #285D77;
+
+  --shadow-card: 0 6px 24px rgba(35, 61, 74, 0.07);
+}
+
+/* Lavender */
+:root[data-theme="lavender"] {
+  color-scheme: light;
+
+  --color-background: #F4F0FA;
+  --color-surface: #FEFCFF;
+  --color-surface-soft: #E9E1F4;
+
+  --color-primary: #684B91;
+  --color-primary-hover: #503574;
+
+  --color-text: #382C49;
+  --color-text-muted: #6E617F;
+
+  --color-border: #D6C9E5;
+  --color-focus: #684B91;
+
+  --shadow-card: 0 6px 24px rgba(56, 44, 73, 0.07);
+}
+
+/* Graphite */
+:root[data-theme="graphite"] {
+  color-scheme: dark;
+
+  --color-background: #1C2026;
+  --color-surface: #2A3038;
+  --color-surface-soft: #353E47;
+
+  --color-primary: #E2B77B;
+  --color-primary-hover: #F4CD95;
+
+  --color-text: #F0EEE8;
+  --color-text-muted: #C4C8CB;
+
+  --color-border: #56616B;
+  --color-focus: #E2B77B;
+
+  --shadow-card: 0 6px 24px rgba(0, 0, 0, 0.22);
+}

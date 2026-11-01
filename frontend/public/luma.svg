@@ -1,0 +1,35 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64">
+
+  <rect width="64" height="64"
+        rx="17" fill="#E5EBDD"/>
+
+  <!-- Tallo -->
+  <path d="M32 49V31"
+        fill="none"
+        stroke="#496F55"
+        stroke-width="4.5"
+        stroke-linecap="round"/>
+
+  <!-- Hoja izquierda -->
+  <path
+    d="M31 32C20 33 14 26 15 16
+       C24 15 32 21 31 32Z"
+    fill="#84AE8D"
+    stroke="#496F55"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+  <!-- Hoja derecha -->
+  <path
+    d="M33 30C34 20 41 15 51 15
+       C52 26 45 32 33 30Z"
+    fill="#6F9A79"
+    stroke="#496F55"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+
+</svg>
